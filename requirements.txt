@@ -1,0 +1,11 @@
+streamlit>=1.39
+streamlit-autorefresh>=1.0.1
+pandas>=2.2
+numpy>=1.26
+requests>=2.31
+urllib3>=2.0
+websocket-client>=1.7
+beautifulsoup4>=4.12
+pyfiglet>=1.0
+python-dotenv>=1.0
+certifi>=2024.2.2
